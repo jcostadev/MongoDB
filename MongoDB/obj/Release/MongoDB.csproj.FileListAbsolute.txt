@@ -1,0 +1,11 @@
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Release\MongoDB.exe.config
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Release\MongoDB.exe
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Release\MongoDB.pdb
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Bson.dll
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Driver.Core.dll
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Driver.dll
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Bson.xml
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Driver.xml
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Release\MongoDB.csprojResolveAssemblyReference.cache
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Release\MongoDB.exe
+c:\users\jcosta\documents\visual studio 2015\Projects\MongoDB\MongoDB\obj\Release\MongoDB.pdb
